@@ -1,8 +1,4 @@
-# 🖼️ Instagram Clone
-
-![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png) 
-![Vite Logo](https://vitejs.dev/logo.svg) 
-![Firebase Logo](https://firebase.google.com/images/brand-guidelines/logo/lockup.png)
+# Instagram Clone
 
 ## Overview
 
